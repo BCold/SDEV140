@@ -1,0 +1,10 @@
+Having just narrowly escaped death you take a moment to catch your breath. Knowing that you can't linger long you quickly do your best to regain your composure and assess the room that you find yourself in. You find one door directly across from your current position and another to your right. There is a chair sitting against the wall to your left. Before you have a chance to contemplate your options the door to your right flings open and you meet eyes with yet another gang member; this one is much older and judging by the scars he bears on his face, chest, and arms he has seen plenty of battle in his lifetime. He furrows his brow and sizes you up from the doorway. You do the same and note that he is unarmed, at this point he's made a similar observation about the bloodied dagger in your hand. In an instant he charges back into the room. What do you do?
+Chase Him
+Run for the door across the room
+Grab the chair and attempt to contain the grizzled bandit to his room
+You quickly run after him, but as you enter the room you don't see him; that is until you turn to your right and find him just as he drives his shortsword deep into your abdomen. He gives the weapon a quick twist and wrenches it out of you as you fall to your knees. He laughs as he delivers a swift knee to your face and you fall backwards. In your final moments he stands over you and spits on your dying form.
+You decide to capitalize on the moment and run straight for the door across from you, upon reaching it you realize that it's locked. You fumble to grab your lockpick, but it's too late. The bandit grabs you in a chokehold, you struggle until your consciousness fades.
+Thinking quickly and acting even quicker you manage to kick the door shut and grab the chair. Just as you near the door it begins to open, you shove the chair under the door's handle and kick it as hard as you can. The bandit curses loudly and you head for the other door, but it's locked. You fumble with your lockpick for a moment and manage to pick the lock faster than even you can believe. You close the door behind you quietly.
+died
+captured
+success
